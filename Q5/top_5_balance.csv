@@ -1,0 +1,6 @@
+#RANKINDEX,RowNumber,CustomerId,Surname,CreditScore,Gender,Age,Tenure,NumOfProducts,HasCrCard,EstimatedSalary,Exited,Balance,IsActiveMember
+1,2093,15757408,Lo,655,Male,38,3,3,0,81054,1,250898,1
+2,3281,15715622,To Rot,583,Female,57,3,1,0,147965,1,238388,1
+3,8734,15714241,Haddon,749,Male,42,9,1,0,101109,1,222268,0
+4,3589,15571958,McIntosh,489,Male,40,3,1,1,171867,0,221533,0
+5,6718,15586674,Shaw,663,Female,58,5,1,0,74177,1,216110,1
